@@ -27,11 +27,7 @@ Entre na pasta Back-end e instale via terminal utilizando os seguintes comandos:
 ```
  npm init
  npm install -g
- npm install express 
- npm install mysql2 
- npm install sequelize sequelize-cli path 
- npm install cors
-
+ npm start
 ```
 
 ## :computer: Tecnologias utilizadas
